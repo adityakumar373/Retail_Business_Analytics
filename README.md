@@ -83,15 +83,15 @@ The interactive dashboard includes:
 * KPI Cards (Sales, Profit, Orders, Customers)
 * Monthly Sales Trend
 * Sales by Category
-* Profit by Category
-* Sales by Region
+* Profit by Region
+* Sales by Category
 * Top Customers
 * Product Profitability Analysis
 * Interactive Filters & Slicers
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Retail_Business_Analytics/
 │
@@ -119,22 +119,22 @@ Retail_Business_Analytics/
 
 ### Executive Dashboard
 
-![Executive Dashboard](dashboard/dashboard 1.jpg)
+![Executive Dashboard](dashboard/dashboard_1.jpg)
 
 ### Product & Customer Insights
 
-![Product & Customer Insights](dashboard/dashboard 2.jpg)
+![Product & Customer Insights](dashboard/dashboard_2.jpg)
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Superstore Sales Dataset**
 A sample retail dataset containing order, customer, product, sales, profit, discount, and regional information.
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
@@ -147,7 +147,7 @@ A sample retail dataset containing order, customer, product, sales, profit, disc
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aditya Kumar**
 
