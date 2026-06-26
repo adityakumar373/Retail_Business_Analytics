@@ -12,13 +12,15 @@ This project analyzes a retail sales dataset to understand sales performance, cu
 
 ## Tech Stack
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* PostgreSQL
-* SQL
-* Power BI
+- SQL (PostgreSQL)
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- DAX
+- Microsoft Excel
+- Git & GitHub
 
 ---
 
@@ -45,18 +47,16 @@ Power BI Dashboard
 
 ---
 
-## Key Business Analysis
+## Key Business Insights
 
-* Sales & Profit KPI Analysis
-* Sales by Category
-* Profit by Category
-* Sales by Region
-* Profit by Region
-* Top Customers by Sales
-* Most & Least Profitable Products
-* Monthly Sales Trend Analysis
-* Month-over-Month (MoM) Sales Growth
-* Customer Segmentation & Profitability Analysis
+- Technology generated the highest sales ($836K).
+- The West region contributed the highest profit ($108K).
+- Consumer segment accounted for over 50% of total sales.
+- Standard Class represented nearly 60% of shipments.
+- Canon imageCLASS 2200 Advanced Copier was the most profitable product.
+- Cubify CubeX 3D Printer Double Head Print generated the highest loss.
+- Sales showed strong seasonal peaks during November and December.
+- Top 10 customers contributed significantly to total revenue.
 
 ---
 
@@ -91,10 +91,14 @@ The interactive dashboard includes:
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
-```text
 Retail_Business_Analytics/
+│
+├── dashboard/
+│   ├── Retail_Business_Analytics.pbix
+│   ├── dashboard_page1.png
+│   └── dashboard_page2.png
 │
 ├── data/
 │   └── Superstore.csv
@@ -106,14 +110,6 @@ Retail_Business_Analytics/
 │   ├── create_table.sql
 │   └── business_queries.sql
 │
-├── dashboard/
-│   └── Retail_Business_Analytics.pbix
-│
-├── images/
-│   ├── dashboard_overview.png
-│   ├── sales_analysis.png
-│   └── customer_analysis.png
-│
 └── README.md
 ```
 
@@ -121,6 +117,13 @@ Retail_Business_Analytics/
 
 ## Dashboard Preview
 
+### Executive Dashboard
+
+![Executive Dashboard](dashboard/dashboard 1.png)
+
+### Product & Customer Insights
+
+![Product & Customer Insights](dashboard/dashboard 2.png)
 
 ---
 
