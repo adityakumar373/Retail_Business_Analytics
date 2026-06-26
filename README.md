@@ -119,11 +119,11 @@ Retail_Business_Analytics/
 
 ### Executive Dashboard
 
-![Executive Dashboard](dashboard/dashboard 1.png)
+![Executive Dashboard](dashboard/dashboard 1.jpg)
 
 ### Product & Customer Insights
 
-![Product & Customer Insights](dashboard/dashboard 2.png)
+![Product & Customer Insights](dashboard/dashboard 2.jpg)
 
 ---
 
