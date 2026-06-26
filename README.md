@@ -4,27 +4,28 @@ An end-to-end retail analytics project that transforms raw retail sales data int
 
 ---
 
-## Project Overview
+## 🎯 Project Overview
 
-This project analyzes a retail sales dataset to understand sales performance, customer behavior, product profitability, and regional trends. The workflow covers data cleaning, exploratory data analysis (EDA), SQL-based business analysis, and interactive dashboard development.
-
----
-
-## Tech Stack
-
-- SQL (PostgreSQL)
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- DAX
-- Microsoft Excel
-- Git & GitHub
+This project analyzes a retail sales dataset to understand sales performance, customer behavior, product profitability, and regional trends. The workflow includes data cleaning, exploratory data analysis (EDA), SQL-based business analysis, and the development of an interactive Power BI dashboard for business decision-making.
 
 ---
 
-## Project Workflow
+## 🛠️ Tech Stack
+
+* SQL (PostgreSQL)
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Power BI
+* DAX
+* Microsoft Excel
+* Git
+* GitHub
+
+---
+
+## 🔄 Project Workflow
 
 ```text
 Raw CSV
@@ -47,20 +48,20 @@ Power BI Dashboard
 
 ---
 
-## Key Business Insights
+## 📈 Key Business Insights
 
-- Technology generated the highest sales ($836K).
-- The West region contributed the highest profit ($108K).
-- Consumer segment accounted for over 50% of total sales.
-- Standard Class represented nearly 60% of shipments.
-- Canon imageCLASS 2200 Advanced Copier was the most profitable product.
-- Cubify CubeX 3D Printer Double Head Print generated the highest loss.
-- Sales showed strong seasonal peaks during November and December.
-- Top 10 customers contributed significantly to total revenue.
+* Technology generated the highest sales (**$836K**).
+* The West region contributed the highest profit (**$108K**).
+* Consumer segment accounted for over **50%** of total sales.
+* Standard Class represented nearly **60%** of shipments.
+* Canon imageCLASS 2200 Advanced Copier was the most profitable product.
+* Cubify CubeX 3D Printer Double Head Print generated the highest loss.
+* Sales showed strong seasonal peaks during **November** and **December**.
+* Top 10 customers contributed significantly to overall revenue.
 
 ---
 
-## SQL Concepts Used
+## 🗄️ SQL Concepts Used
 
 * Aggregate Functions
 * GROUP BY
@@ -76,7 +77,7 @@ Power BI Dashboard
 
 ---
 
-## Power BI Dashboard
+## 📊 Power BI Dashboard
 
 The interactive dashboard includes:
 
@@ -84,21 +85,23 @@ The interactive dashboard includes:
 * Monthly Sales Trend
 * Sales by Category
 * Profit by Region
-* Sales by Category
-* Top Customers
+* Top 10 Customers
 * Product Profitability Analysis
+* Sales by Segment
+* Sales by Ship Mode
 * Interactive Filters & Slicers
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
+```text
 Retail_Business_Analytics/
 │
 ├── dashboard/
-│   ├── Retail_Business_Analytics.pbix
-│   ├── dashboard_page1.png
-│   └── dashboard_page2.png
+│   ├── Retail Business Analytics.pbix
+│   ├── dashboard 1.jpg
+│   └── dashboard 2.jpg
 │
 ├── data/
 │   └── Superstore.csv
@@ -115,26 +118,27 @@ Retail_Business_Analytics/
 
 ---
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Executive Dashboard
 
-![Executive Dashboard](dashboard/dashboard_1.jpg)
+![Executive Dashboard](dashboard/dashboard%201.jpg)
 
 ### Product & Customer Insights
 
-![Product & Customer Insights](dashboard/dashboard_2.jpg)
+![Product & Customer Insights](dashboard/dashboard%202.jpg)
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 **Superstore Sales Dataset**
+
 A sample retail dataset containing order, customer, product, sales, profit, discount, and regional information.
 
 ---
 
-## Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
@@ -144,10 +148,11 @@ A sample retail dataset containing order, customer, product, sales, profit, disc
 * Data Visualization
 * Business Intelligence
 * Dashboard Development
+* Interactive Dashboard Design
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Aditya Kumar**
 
