@@ -17,6 +17,7 @@ This project analyzes a retail sales dataset to understand sales performance, cu
 * Pandas
 * NumPy
 * Matplotlib
+* Jupyter Notebook
 * Power BI
 * DAX
 * Microsoft Excel
